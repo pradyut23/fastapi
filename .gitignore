@@ -1,0 +1,7 @@
+__pycache__
+bin/
+include/
+lib/
+.env
+pyvenv.cfg
+points.txt
