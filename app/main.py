@@ -26,5 +26,5 @@ app.include_router(vote.router)
 
 @app.get('/')   #Path operation / Route
 async def root():
-    return {"message': 'Hello World to these API's!!"}
+    return {"message': 'Hello World to the API's!!"}
 
