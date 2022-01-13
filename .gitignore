@@ -5,3 +5,4 @@ lib/
 .env
 pyvenv.cfg
 points.txt
+docker-compose-dev.yml
